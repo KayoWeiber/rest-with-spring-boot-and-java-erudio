@@ -100,4 +100,4 @@ docker-compose up
 ## 👨‍💻 Instrutor
 
 **Leandro Costa** — Analista Desenvolvedor de Software com mais de 14 anos de experiência.  
-[Perfil na Udemy](https://www.udemy.com/user/leandro-costa-9/)
+[Perfil na Udemy](https://www.udemy.com/user/leandro-da-costa-goncalves/)
